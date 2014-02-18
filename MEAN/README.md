@@ -29,10 +29,18 @@ MEAN
  |   |  |  |- filters
  |   |  |  |- controllers
  |   |  |  '- views
- |   '- middlewares
+ |   |  |
+ |   |  '- app.x
+ |   |
+ |   '- config.x
  |
+ |-- config
+ |   |
+ |   |- env
+ |   '- abc.xyz
+ | 
  |- dist
 
 
- 
+
 ```
