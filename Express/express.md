@@ -1,4 +1,5 @@
-''
+## Express app with Sub apps
+```
 ROOT
  | - server.js
  | - package.json
@@ -23,4 +24,4 @@ ROOT
         | - views
             | - assets
             | - templates (jade templates)
-''
+```
