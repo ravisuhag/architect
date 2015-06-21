@@ -1,0 +1,26 @@
+''
+ROOT
+ | - server.js
+ | - package.json
+ | - views
+    | - index.jade
+ | - apps
+    | - admin
+        | - models
+        | - controllers
+        | - views
+            | - assets
+            | - templates (jade templates)
+    | - blog 
+        | - models
+        | - controllers
+        | - views
+            | - assets
+            | - templates (jade templates)
+    | - events 
+        | - models
+        | - controllers
+        | - views
+            | - assets
+            | - templates (jade templates)
+''
